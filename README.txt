@@ -1,7 +1,4 @@
 this is simple readme file
 -------------------------
 
-hiiii
-hello
--------------------------
-
+hw r u
